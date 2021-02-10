@@ -1,0 +1,129 @@
+:root {
+  color: white;
+  background-color: #1b1c1b;
+  font-family: Apple_Chancery, cursive;
+  font-size: 20px;
+}
+
+a:link {
+  color: Pink;
+}
+a:link:hover {
+  color: Red;
+}
+a:visited {
+  color: Hotpink;
+}
+a:active {
+  color: Hotpink;
+}
+
+#head ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#head li {
+  display: inline;
+  border: 1px solid;
+  border-bottom-width: 0;
+  margin: 0 0, 5em 0 0;
+}
+
+#head li a {
+  padding: 0 1em;
+}
+
+#text {
+  text-align: center;
+}
+#text2 {
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+}
+h2 {
+  text-align: center;
+}
+
+.montreal {
+  text-align: left;
+  height: 300px;
+}
+#parallax_code .parallax_one {
+  padding-top: 10px;
+  padding-bottom: 900px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url(https://reloadvisor.org/wp-content/uploads/2019/10/Canada-ReloAdvisor.org_.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+#parallax_code .parallax_two {
+  padding-top: 10px;
+  padding-bottom: 200px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url(https://www.theworldisacircus.com/wp-content/uploads/2018/03/IMG_8833.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#parallax_code .parallax_three {
+  padding-top: 10px;
+  padding-bottom: 200px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url(https://www.chatelaine.com/wp-content/uploads/2019/02/spring-forecast-2019.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#parallax_code .parallax_four {
+  padding-top: 10px;
+  padding-bottom: 200px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url(https://media.timeout.com/images/105465851/image.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#parallax_code .parallax_five {
+  padding-top: 10px;
+  padding-bottom: 200px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url(https://traveltoeat.com/wp-content/uploads/2016/12/Photo-Dec-21-2016-803-PM.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
