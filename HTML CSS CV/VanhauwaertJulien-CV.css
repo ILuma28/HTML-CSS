@@ -1,0 +1,36 @@
+/*Vanhauwaert Julien*/
+body{
+	width: 70%;
+	margin-left: 15%;
+}
+header{
+	text-align: center;
+	border-top: 10px solid #688CD8;
+	border-bottom: 10px solid #688CD8;
+	background-color: #E8EFF7;
+}
+#adresse{
+	text-align: left;
+	font-family: monospace;
+}
+header img{
+	float: right;
+	width: 15%;
+}
+article{
+	border-top: 10px solid #688CD8;
+	border-bottom: 10px solid #688CD8;
+	background-color: #E8EFF7;
+	margin-top: 30pt;
+}
+article h1{
+	color: #385CA8;
+	font-variant: small-caps;
+	padding: 10px;
+}
+span.annee{
+	width: 100px;
+	display: block;
+	float: left;
+}
+/*Mon CV ne va pas s'afficher de la même manière car le CSS est interprété différemment selon le navigateur*/
