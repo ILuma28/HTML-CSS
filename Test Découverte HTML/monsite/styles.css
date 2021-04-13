@@ -1,0 +1,23 @@
+h1.titre{
+	text-align:center;
+}
+h3.presentation{
+	text-align:center;
+}
+div.musique{
+	text-align:center;
+}
+h3.contact{
+	text-align:right;
+}
+h1.contact{
+	text-align:center;
+}
+body{
+	background-size: contain;
+	background-position: center;
+	background-image: url('fond.png');
+}
+strong.mail{
+	color:#20AA91;
+}
