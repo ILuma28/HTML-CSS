@@ -1,0 +1,86 @@
+:root {
+  color: white;
+  background-color: #1b1c1b;
+  font-family: Apple_Chancery, cursive;
+  font-size: 16px;
+}
+
+#head ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#head li {
+  display: inline;
+  border: 1px solid;
+  border-bottom-width: 0;
+  margin: 0 0, 5em 0 0;
+}
+
+#head li a {
+  padding: 0 1em;
+}
+
+a:link {
+  color: Hotpink;
+}
+a:link:hover {
+  color: red;
+}
+a:visited {
+  color: Hotpink;
+}
+a:active {
+  color: Hotpink;
+}
+#parallax_code .parallax_one {
+  padding-top: 10px;
+  padding-bottom: 1000px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url(https://www.nacel.fr/medias/_cache/pays/9/imagePrincipale/1920_1440/sejour-linguistique-canada.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+#parallax_code .parallax_two {
+  padding-top: 10px;
+  padding-bottom: 1000px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url(https://www.alibabuy.com/photos/library/1500/10001.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#parallax_code .parallax_three {
+  padding-top: 10px;
+  padding-bottom: 1000px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url(https://www.gavi.org/sites/default/files/investing/funding/australia-keith-zhu-qaNcz43MeY8-unsplash.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+#text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
