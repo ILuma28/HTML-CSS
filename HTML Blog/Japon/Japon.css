@@ -1,0 +1,74 @@
+/* Vanhauwaert Julien - Viseur Théo - Watson Benjamin*/
+html{
+	color: white;
+    background-color:#1b1c1b;
+}
+body{
+	font-family: Apple Chancery, cursive;
+    font-size: 16px;
+}
+.img1{
+	margin-left: 23%;
+	width: 26%;
+}
+.img2{
+	width: 30%;
+}
+.img3{
+	margin-left: 23%;
+	width: 28%;
+}
+.img4{
+	width: 25%;
+}
+.img5{
+	margin-left: 10%;
+	width: 25%;
+}
+.img6{
+	width: 28%;
+}
+.img7{
+	width: 25%;
+}
+.img8{
+	margin-left: 23%;
+	width: 25%;
+}
+.img9{
+	width: 28%;
+}
+.img10{
+	margin-left: 10%;
+	width: 27%;
+}
+.img11{
+	width: 27%;
+}
+.img12{
+	width: 30%;
+}
+.img13{
+	margin-left: 23%;
+	width: 30%;
+}
+.img14{
+	width: 30%;
+}
+.img15{
+	margin-left: 10%;
+	width: 25%;
+}
+.img16{
+	width: 29%;
+}
+.img17{
+	width: 29%;
+}
+.underline{
+	text-decoration: underline;
+	color: #1ED897;
+}
+.bold{
+	font-weight: bold;
+}
